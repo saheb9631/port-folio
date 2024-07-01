@@ -41,7 +41,7 @@ export const projectsData = [
         description: 'CGC Ebooks App is a tailored ebook application designed to meet the academic demands of college students. It boasts a robust library of ebooks alongside a collection of previous year and MST (Most Significant Topics) questions. Developed using Java, XML, and integrated with Firebase, the app is currently available on Play, offering students a convenient and comprehensive resource for their studies.',
         tools: ['Java', 'Xml', "Google Maps", "Material UI", "Firebase", "Card View"],
         code: '',
-        role: 'Full Stack Developer',
+        role: 'Android  Developer',
         demo: '',
         image: realEstate,
     }

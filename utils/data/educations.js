@@ -1,9 +1,9 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
+    title: "Bachelor's Degree",
     duration: "2022 - Present",
-    institution: "Chandigrah Group of Colleges Landran",
+    institution: "Chandigarh Group Of Colleges Landran",
   },
   {
     id: 2,

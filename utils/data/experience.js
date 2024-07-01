@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Java Developer',
     company: "ThinkNext Private Ltd.",
-    duration: "(Jun 202 - Present)"
+    duration: "(Jun 2024 - Present)"
   },
   {
     id: 2,
